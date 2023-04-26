@@ -60,6 +60,10 @@ section {
     float: right;
 }
 
+.newsP {
+    height: 50px;
+}
+
 
 /***** Flex Box ****/
 
@@ -152,7 +156,7 @@ img {
     width: 40px;
 }
 
-span {
+span, .newsP {
     font-weight: bolder;
     font-size: 20px;
 }
